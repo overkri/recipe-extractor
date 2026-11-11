@@ -123,4 +123,4 @@ ship the fastest possible CRUD.
 
 ## License
 
-Code: [MIT](./LICENSE). Vibes: [Vibe Coding License 1.0](./VIBE.md) — a manifesto, not a license.
+Code: [MIT](./LICENSE).
